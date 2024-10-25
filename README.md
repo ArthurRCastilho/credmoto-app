@@ -1,16 +1,28 @@
-# credmoto
+> :construction: Projeto Em Construção :construction:
 
-A new Flutter project.
+# Flavor Fusion
 
-## Getting Started
+Este é um aplicativo de receitas, na qual cada usuário consegue armazenar suas próprias receitas, além de ter receitas próprias para todos os usuários.
 
-This project is a starting point for a Flutter application.
+## Layouts
+> :construction: Projeto Em Construção :construction:
+<img src="./assets/readme/imgs/authScreen.png" alt="SplashScreen" width="270px"> 
+<!-- <img src="" alt="" width="270px">  -->
 
-A few resources to get you started if this is your first Flutter project:
+#### O que já foi feito?
+- [ ] Auth Screen;
+- [ ] Home Screen;
+- [ ] Accounts Screen.
+- [ ] Stock Screen.
+- [ ] Expensives Screen.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Dependências
+- ``get: ^4.6.6``
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Tecnologias utilizadas
+- ``VSCode``
+- ``Dart``
+- ``Flutter``
+- ``XCode = Emulador de IOs``
+- ``Android Studio = Emulador Android``
+- ``iPad = iPadOS``
