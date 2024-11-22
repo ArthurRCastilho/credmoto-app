@@ -1,6 +1,6 @@
 > :construction: Projeto Em Construção :construction:
 
-# Flavor Fusion
+# Credmoto App
 
 Este é um aplicativo para a empresa Credmoto, na qual tem com seu principal intuito poder visualizar o estoque e as contas pelo próprio celular.
 
