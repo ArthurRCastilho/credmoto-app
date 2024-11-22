@@ -7,14 +7,17 @@ Este é um aplicativo de receitas, na qual cada usuário consegue armazenar suas
 ## Layouts
 > :construction: Projeto Em Construção :construction:
 <img src="./assets/readme/imgs/authScreen.png" alt="SplashScreen" width="270px"> 
+<img src="./assets/readme/imgs/InventoryScreen.png" alt="InventoryScreen" width="270px"> 
 <!-- <img src="" alt="" width="270px">  -->
 
 #### O que já foi feito?
 - [ ] Auth Screen;
 - [ ] Home Screen;
 - [ ] Accounts Screen.
-- [ ] Stock Screen.
+- [X] Stock Screen.
 - [ ] Expensives Screen.
+- [ ] Product Screen.
+- [ ] Search Screen.
 
 ### Dependências
 - ``get: ^4.6.6``

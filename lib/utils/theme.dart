@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 final theme = ThemeData(
   colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
   useMaterial3: true,
-  scaffoldBackgroundColor: const Color(0xffE0E0E0),
+  scaffoldBackgroundColor: Colors.grey[300],
   appBarTheme: const AppBarTheme(
     backgroundColor: Color(0xffE0E0E0),
   ),
