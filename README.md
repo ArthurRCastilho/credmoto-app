@@ -5,7 +5,8 @@
 Este é um aplicativo de receitas, na qual cada usuário consegue armazenar suas próprias receitas, além de ter receitas próprias para todos os usuários.
 
 ## Layouts
-> :construction: Projeto Em Construção :construction:
+> :construction: Projeto Em Construção :construction: <br>
+
 <img src="./assets/readme/imgs/authScreen.png" alt="SplashScreen" width="250px"> <img src="./assets/readme/imgs/InventoryScreen.png" alt="InventoryScreen" width="250px"> 
 <!-- <img src="" alt="" width="270px">  -->
 
