@@ -2,7 +2,7 @@
 
 # Flavor Fusion
 
-Este é um aplicativo de receitas, na qual cada usuário consegue armazenar suas próprias receitas, além de ter receitas próprias para todos os usuários.
+Este é um aplicativo para a empresa Credmoto, na qual tem com seu principal intuito poder visualizar o estoque e as contas pelo próprio celular.
 
 ## Layouts
 > :construction: Projeto Em Construção :construction: <br>
