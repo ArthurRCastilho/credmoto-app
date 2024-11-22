@@ -2,6 +2,8 @@ import 'package:credmoto/screens/accounts_screen/accounts_screen.dart';
 import 'package:credmoto/screens/auth_screen/auth_screen.dart';
 import 'package:credmoto/screens/expensives_screen/expensives_screen.dart';
 import 'package:credmoto/screens/home_screen/home_screen.dart';
+import 'package:credmoto/screens/product_screen/product_screen.dart';
+import 'package:credmoto/screens/search_screen.dart/search_screen.dart';
 import 'package:credmoto/screens/stock_screen/stock_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/route_manager.dart';
@@ -32,7 +34,7 @@ class MyApp extends StatelessWidget {
         ),
         GetPage(
           name: '/stock',
-          page: () => const StockScreen(),
+          page: () => StockScreen(),
         ),
         GetPage(
           name: '/accounts',
@@ -41,6 +43,14 @@ class MyApp extends StatelessWidget {
         GetPage(
           name: '/expensives',
           page: () => const ExpensivesScreen(),
+        ),
+        GetPage(
+          name: '/search-screen',
+          page: () => const SearchScreen(),
+        ),
+        GetPage(
+          name: '/product-screen',
+          page: () => ProductScreen(),
         ),
       ],
     );
